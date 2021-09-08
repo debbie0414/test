@@ -3,6 +3,6 @@ prefix=/home/debbie/test/devel
 Name: example
 Description: Description of example
 Version: 0.0.0
-Cflags: 
+Cflags: -I/home/debbie/test/devel/include
 Libs: -L${prefix}/lib 
 Requires: 
