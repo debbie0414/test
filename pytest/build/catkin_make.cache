@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/debbie/pytest/devel -DCMAKE_INSTALL_PREFIX=/home/debbie/pytest/install -G Unix Makefiles
